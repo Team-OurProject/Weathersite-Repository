@@ -1,4 +1,4 @@
-This to create a weather SPA using AngularJS and jQuery.
+This to create a weather SPA using Bootstrap and jQuery.
 
 
 
